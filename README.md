@@ -43,7 +43,7 @@
 
 | 고주리 | 김귀연 | 문선영 | 채승희 |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|           [@jul-ee](https://github.com/팀원1아이디)           |           [@GwiYeonKim](https://github.com/GwiYeonKim)           |                 [@sunyoungmoon012](https://github.com/sunyoungmoon012)                 |         [@shchae12](https://github.com/shchae12)          |
+|           [@jul-ee](https://github.com/jul-ee)           |           [@GwiYeonKim](https://github.com/GwiYeonKim)           |                 [@sunyoungmoon012](https://github.com/sunyoungmoon012)                 |         [@shchae12](https://github.com/shchae12)          |
 |                            - Modeling<br>- Model Tuning                      |                           - Feature Engineering<br>- Modeling Tuning                            |                                  - EDA<br>- Data Preprocessing                                  |                          - EDA<br>- Feature Engineering |
 
 </div>
